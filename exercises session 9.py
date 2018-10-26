@@ -11,3 +11,7 @@ def linear(num, lst):
             return i
     
     return None
+
+def hello():
+    name = input("What's your name? ")
+    print("Hello" + name)
